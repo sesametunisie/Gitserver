@@ -1,5 +1,5 @@
 baseDataUri: "https://opendata.nederlandwereldwijd.nl/v1/sources/nederlandwereldwijd/infotypes/traveladvice"
 fetchInterval: "00:05:00"
-ClientsCollectionName: "Client1", 
-ConnectionString: "mongodb://localhost:27017",
+ClientsCollectionName: "Client1"
+ConnectionString: "mongodb://localhost:27017"
 DatabaseName: "ClientstoreDb"
